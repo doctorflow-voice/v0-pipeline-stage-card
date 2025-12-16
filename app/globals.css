@@ -123,7 +123,7 @@
     @apply bg-background text-foreground;
   }
 
-  /* Added progress bar animation for snippet extraction stage */
+  /* Added animation for snippet extraction progress bar */
   @keyframes fillProgress {
     from {
       width: 0%;
